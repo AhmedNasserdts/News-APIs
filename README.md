@@ -47,3 +47,31 @@ News APIs
 - **Payments**: PayPal API  
 - **Notifications**: Spring Mail + Twilio  
 ---
+
+MVC
+
+<img width="302" height="870" alt="Screenshot 2025-08-28 044858" src="https://github.com/user-attachments/assets/fe093015-47f5-4ce9-8025-93118a1d8aa8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
